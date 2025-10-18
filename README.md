@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-<!--
-**pellegrinoirene384-del/pellegrinoirene384-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +9,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+[![LinkedIn - Original 1](https://user-images.githubusercontent.com/107930022/194300471-7b6af436-fbb7-4dbf-a04b-8b33c73cead2.svg)](https://www.linkedin.com/in/irene-p-0358612b5/)
+
